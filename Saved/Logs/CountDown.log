@@ -75588,3 +75588,241 @@ Script Stack (0 frames) :
 [2026.07.26-12.56.44:347][150]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
 [2026.07.26-12.56.44:358][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2026.07.26-12.56.44:395][151]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.07.26-12.58.48:426][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5891.419434
+[2026.07.26-12.58.49:760][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.26-12.58.49:760][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5892.419922, Update Interval: 319.653320
+[2026.07.26-13.03.11:295][737]LogSlate: External Image Picker: DecompressImage failed
+[2026.07.26-13.04.54:776][407]LogSlate: Window 'SDK未设置' being destroyed
+[2026.07.26-13.05.06:602][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6269.588379
+[2026.07.26-13.05.07:935][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.26-13.05.07:935][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6270.588379, Update Interval: 307.582642
+[2026.07.26-13.06.38:020][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.07.26-13.06.38:027][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP/UI' took 0.039
+[2026.07.26-13.06.38:028][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrint/WB_CountDown] ([2] browsable assets)...
+[2026.07.26-13.06.38:041][763]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrint/WB_CountDown.WB_CountDown]
+[2026.07.26-13.06.38:042][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/WB_CountDown]
+[2026.07.26-13.06.38:042][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/WB_CountDown" FILE="../../../../../../Else/Gamejam/Count_Down/Saved/Autosaves/Game/BluePrint/WB_CountDown_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.07.26-13.06.38:050][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrint/WB_CountDown_Auto5
+[2026.07.26-13.06.38:050][763]LogSavePackage: Moving '../../../../../../Else/Gamejam/Count_Down/Saved/WB_CountDown_Auto5E23A8C3D4A8860310B46388FB2426561.tmp' to '../../../../../../Else/Gamejam/Count_Down/Saved/Autosaves/Game/BluePrint/WB_CountDown_Auto5.uasset'
+[2026.07.26-13.06.38:051][763]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.07.26-13.22.30:642][467]LogDerivedDataCache: C:/Users/ZZM22/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.26-13.22.39:414][467]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (Realtek(R) Audio), InstanceID=1
+[2026.07.26-13.22.39:414][467]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{b844849d-f2f4-4358-950f-2726c2dbfe1b}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.07.26-13.22.44:237][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.22.44:237][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.22.44:237][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.22.49:238][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.22.49:238][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.22.49:238][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.22.54:238][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.22.54:238][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.22.54:238][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.22.59:239][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.22.59:239][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.22.59:239][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.04:239][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.04:239][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.04:239][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.09:240][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.09:240][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.09:240][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.14:240][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.14:240][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.14:240][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.19:241][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.19:241][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.19:241][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.24:241][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.24:241][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.24:241][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.29:242][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.29:242][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.29:242][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.34:242][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.34:242][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.34:242][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.39:242][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.39:242][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.39:242][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.44:243][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.44:243][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.44:243][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.49:244][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.49:244][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.49:244][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.54:245][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.54:245][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.54:245][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.23.59:245][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.23.59:245][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.23.59:245][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.04:246][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.04:246][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.04:246][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.09:246][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.09:246][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.09:246][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.14:246][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.14:246][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.14:246][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.19:247][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.19:247][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.19:247][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.24:248][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.24:248][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.24:248][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.29:248][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.29:248][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.29:248][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.34:249][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.34:249][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.34:249][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.39:249][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.39:249][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.39:249][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.44:250][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.44:250][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.44:250][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.49:251][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.49:251][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.49:251][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.54:251][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.54:251][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.54:251][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.24.59:251][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.24.59:251][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.24.59:251][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.04:251][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.04:251][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.04:251][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.09:253][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.09:253][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.09:253][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.14:253][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.14:253][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.14:253][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.19:253][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.19:253][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.19:253][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.24:254][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.24:254][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.24:254][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.29:254][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.29:254][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.29:254][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.34:254][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.34:254][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.34:254][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.39:255][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.39:255][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.39:255][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.44:256][467]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.07.26-13.25.44:256][467]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.07.26-13.25.44:256][467]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.07.26-13.25.47:157][467]LogSlate: Window 'SDK未设置' being destroyed
+[2026.07.26-13.25.47:168][467]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{b844849d-f2f4-4358-950f-2726c2dbfe1b}]
+[2026.07.26-13.25.47:168][467]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.26-13.25.47:168][467]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.07.26-13.25.47:200][469]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b844849d-f2f4-4358-950f-2726c2dbfe1b}, Name=扬声器 (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.24
+[2026.07.26-13.25.47:200][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.07.26-13.25.47:200][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.26-13.25.47:202][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.26-13.26.26:736][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7549.723633
+[2026.07.26-13.26.28:071][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.26-13.26.28:071][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7550.725098, Update Interval: 305.130768
+[2026.07.26-13.27.53:080][997]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A8A9826042872E731DE58F8E8F72B96F, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.27.53:080][997]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.27.53:080][997]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 0 (Too old connection (119 seconds idle), disconnect it)
+[2026.07.26-13.27.53:080][997]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 1 (Connection 8 seems to be dead)
+[2026.07.26-13.27.53:080][997]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 2 (Closing connection)
+[2026.07.26-13.27.53:080][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.27.53:080][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 4 (Too old connection (119 seconds idle), disconnect it)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 5 (Connection 9 seems to be dead)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 6 (Closing connection)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 8 (Found bundle for host: 0x23153080ed0 [serially])
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 9 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 10 (Connected to 127.0.0.1 (127.0.0.1) port 7897)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 11 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 12 (allocate connect buffer)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 13 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 14 (CONNECT phase completed)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 15 (CONNECT tunnel established, response 200)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 17 (SSL reusing session ID)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 18 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 19 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 20 (Closing connection)
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A8A9826042872E731DE58F8E8F72B96F
+[2026.07.26-13.27.53:081][998]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.26-13.28.01:077][ 21]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 0 (Found bundle for host: 0x23153080ed0 [serially])
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 5 (Closing connection)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 7 (Recv failure: Connection was aborted)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 9 (Hostname 127.0.0.1 was found in DNS cache)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 10 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 11 (Connected to 127.0.0.1 (127.0.0.1) port 7897)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 13 (allocate connect buffer)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 14 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 15 (CONNECT phase completed)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 17 (ALPN: curl offers http/1.1)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 18 (SSL reusing session ID)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 20 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: 0000023175B05400: libcurl info message cache 21 (Closing connection)
+[2026.07.26-13.28.01:413][ 22]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.26-13.28.02:960][ 26]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60770'.
+[2026.07.26-13.28.02:976][ 26]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.28.02:985][ 26]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.07.26-13.28.03:078][ 27]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.28.04:898][ 32]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49258'.
+[2026.07.26-13.28.04:908][ 32]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.28.04:916][ 32]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.07.26-13.28.05:078][ 33]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 0 (Re-using existing connection with proxy 127.0.0.1)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 1 (upload completely sent off: 442 bytes)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 2 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 3 (shutting down connection #5)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 5 (Recv failure: Connection was aborted)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 11 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.28.06:082][ 36]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 13 (allocate connect buffer)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 14 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 15 (CONNECT phase completed)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 17 (SSL reusing session)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 18 (ALPN: curl offers http/1.1)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 20 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 21 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00: libcurl info message cache 22 (closing connection #6)
+[2026.07.26-13.28.06:082][ 37]LogHttp: Warning: 00000232804F4D00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 27.99s
+[2026.07.26-13.28.06:930][ 38]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58058'.
+[2026.07.26-13.28.06:954][ 38]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.28.06:963][ 38]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.07.26-13.28.07:078][ 39]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.28.08:879][ 44]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:51709'.
+[2026.07.26-13.28.08:893][ 44]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.28.08:904][ 44]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.07.26-13.28.09:079][ 45]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.28.11:314][ 50]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49318'.
+[2026.07.26-13.28.11:330][ 50]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.28.11:338][ 50]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
