@@ -75826,3 +75826,91 @@ Script Stack (0 frames) :
 [2026.07.26-13.28.11:314][ 50]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49318'.
 [2026.07.26-13.28.11:330][ 50]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
 [2026.07.26-13.28.11:338][ 50]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 0 (Re-using existing connection with proxy 127.0.0.1)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 1 (upload completely sent off: 441 bytes)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 4 (shutting down connection #7)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.07.26-13.29.49:295][512]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 11 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 12 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 13 (allocate connect buffer)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 14 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 15 (CONNECT phase completed)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 16 (CONNECT tunnel established, response 200)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 17 (SSL reusing session)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 18 (ALPN: curl offers http/1.1)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 20 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 21 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00: libcurl info message cache 22 (closing connection #8)
+[2026.07.26-13.29.49:295][513]LogHttp: Warning: 00000232804F9A00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 12.10s
+[2026.07.26-13.29.52:298][521]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A8A9826042872E731DE58F8E8F72B96F, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.29.52:298][521]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.29.52:298][521]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 0 (Found bundle for host: 0x23153080630 [serially])
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 2 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 7897)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 4 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 5 (allocate connect buffer)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 6 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 7 (CONNECT phase completed)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 8 (CONNECT tunnel established, response 200)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 9 (ALPN: curl offers http/1.1)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 10 (SSL reusing session ID)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 11 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 12 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: 0000023175B05A00: libcurl info message cache 13 (Closing connection)
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=A8A9826042872E731DE58F8E8F72B96F
+[2026.07.26-13.29.52:298][522]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: request failed, libcurl error: 0 (No error)
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: libcurl info message cache 0 (Found bundle for host: 0x23153080630 [serially])
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: libcurl info message cache 3 (Closing connection)
+[2026.07.26-13.30.06:635][564]LogEOSSDK: Warning: LogHttp: 0000023175B0F000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.07.26-13.30.06:635][565]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 1 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 2 (Connected to 127.0.0.1 (127.0.0.1) port 7897)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 3 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 4 (allocate connect buffer)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 5 (Establish HTTP proxy tunnel to api.epicgames.dev:443)
+[2026.07.26-13.30.41:476][655]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 6 (CONNECT phase completed)
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 7 (CONNECT tunnel established, response 200)
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 8 (ALPN: curl offers http/1.1)
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 9 (SSL reusing session ID)
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 11 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.epicgames.dev:443 )
+[2026.07.26-13.30.41:476][656]LogEOSSDK: Warning: LogHttp: 0000023175B0AE00: libcurl info message cache 12 (Closing connection)
+[2026.07.26-13.30.41:808][656]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD7FB0613-437F-40A5-3144-78A7FB0B0485%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2026.07.26-13.30.42:142][657]LogHttp: Warning: 00000232804FA100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.07.26-13.30.42:143][657]LogHttp: Warning: 00000232804FA100: request failed, libcurl error: 35 (SSL connect error)
+[2026.07.26-13.30.42:143][657]LogHttp: Warning: 00000232804FA100: libcurl info message cache 0 (Hostname 127.0.0.1 was found in DNS cache)
+[2026.07.26-13.30.42:143][657]LogHttp: Warning: 00000232804FA100: libcurl info message cache 1 (  Trying 127.0.0.1:7897...)
+[2026.07.26-13.30.42:143][657]LogHttp: Warning: 00000232804FA100: libcurl info message cache 2 (CONNECT tunnel: HTTP/1.1 negotiated)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 3 (allocate connect buffer)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 4 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 5 (CONNECT phase completed)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 6 (CONNECT tunnel established, response 200)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 7 (ALPN: curl offers http/1.1)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 9 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100: libcurl info message cache 11 (closing connection #9)
+[2026.07.26-13.30.42:143][658]LogHttp: Warning: 00000232804FA100 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9115B172-463B-0837-29B3-6CB6F534892A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=4bc5f982425ccb105a2b94943276ed68%7C9f256d6e2d93447e832f7d6a8bce0b05%7Caa88da4f-2804-4302-a51b-56938016a867&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 5.01s
+[2026.07.26-13.31.02:469][718]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.07.26-13.31.04:248][723]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49842'.
+[2026.07.26-13.31.04:654][723]LogUdpMessaging: Display: Added local interface '26.135.4.133' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.31.04:655][723]LogUdpMessaging: Display: Added local interface '192.168.10.108' to multicast group '230.0.0.1:6666'
+[2026.07.26-13.31.04:665][723]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
